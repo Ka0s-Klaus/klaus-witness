@@ -1,3 +1,7 @@
+---
+tags: [proyecto/klaus-witness, tipo/release, producto/release]
+---
+
 # Changelog - TESTIGO
 
 ## [1.0.0] - 2026-01-15

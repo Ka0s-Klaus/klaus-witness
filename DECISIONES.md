@@ -1,3 +1,7 @@
+---
+tags: [proyecto/klaus-witness, tipo/decision, agente/desarrollo]
+---
+
 # Decisiones de Implementación - TESTIGO v1.0.0
 
 ## Arquitectura

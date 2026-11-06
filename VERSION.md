@@ -1,3 +1,7 @@
+---
+tags: [proyecto/klaus-witness, tipo/release, producto/release]
+---
+
 # TESTIGO v1.0.0 — Release Summary
 
 ## 📦 Lo que incluye
@@ -29,9 +33,9 @@
 
 ### Documentación
 - ✅ **README:** visión, features, arquitectura, licencia
-- ✅ **INSTALACION.md:** paso a paso (Docker + local)
-- ✅ **CHANGELOG.md:** historial v1.0.0 → roadmap
-- ✅ **DECISIONES.md:** por qué cada elección técnica
+- ✅ **[[INSTALACION|INSTALACION.md]]:** paso a paso (Docker + local)
+- ✅ **[[CHANGELOG|CHANGELOG.md]]:** historial v1.0.0 → roadmap
+- ✅ **[[DECISIONES|DECISIONES.md]]:** por qué cada elección técnica
 - ✅ **LICENSE:** MIT (datos del usuario = propiedad irrenunciable)
 
 ---

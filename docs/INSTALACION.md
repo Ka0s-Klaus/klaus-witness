@@ -1,3 +1,7 @@
+---
+tags: [proyecto/klaus-witness, tipo/guia, infra/instalacion]
+---
+
 # Guía de Instalación - TESTIGO v1.0.0
 
 ## Requisitos previos

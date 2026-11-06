@@ -1,3 +1,7 @@
+---
+tags: [proyecto/klaus-witness, tipo/referencia, agente/desarrollo]
+---
+
 # ARQUITECTURA - TESTIGO v1.0.0
 
 Guía técnica: cómo está construido TESTIGO, qué hace cada componente y cómo interactúan.
