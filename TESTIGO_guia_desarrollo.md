@@ -1,3 +1,7 @@
+---
+tags: [proyecto/klaus-witness, tipo/guia, agente/desarrollo]
+---
+
 # TESTIGO — Guía de desarrollo completa para agentes de IA
 
 > **Propósito de este documento:** permitir que cualquier modelo de lenguaje (o agente de

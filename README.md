@@ -1,3 +1,7 @@
+---
+tags: [proyecto/klaus-witness, tipo/referencia, agente/desarrollo]
+---
+
 # 🧠 TESTIGO v1.0.0
 
 > **Memoria que dura.** Tu archivo personal con inteligencia artificial.

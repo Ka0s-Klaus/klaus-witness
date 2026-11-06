@@ -1,3 +1,7 @@
+---
+tags: [proyecto/klaus-witness, tipo/release, producto/release]
+---
+
 # 🎉 TESTIGO v1.0.0 — Publicado
 
 **Fecha:** 12 de Septiembre de 2026  
@@ -108,7 +112,7 @@ open http://localhost:3000
 | Git history | ✅ Limpia |
 | Tags | ✅ v1.0.0 |
 | README | ✅ README-driven |
-| CHANGELOG | ✅ Versiones documentadas |
+| [[CHANGELOG]] | ✅ Versiones documentadas |
 | Instrucciones instalación | ✅ Paso a paso |
 
 ---
@@ -162,12 +166,12 @@ Tamaño repo:          ~2MB (sin node_modules)
 Todos los documentos están en la raíz del repositorio:
 
 - **README.md** — Para visitantes que llegan a GitHub
-- **INSTALACION.md** — Setup detallado, troubleshooting
+- **[[INSTALACION|INSTALACION.md]]** — Setup detallado, troubleshooting
 - **CHANGELOG.md** — Historial v1.0.0, roadmap futuro
-- **DECISIONES.md** — Por qué cada elección técnica
-- **VERSION.md** — Release summary con métricas
+- **[[DECISIONES|DECISIONES.md]]** — Por qué cada elección técnica
+- **[[VERSION|VERSION.md]]** — Release summary con métricas
 - **LICENSE** — MIT completa
-- **TESTIGO_guia_desarrollo.md** — Especificación original
+- **[[TESTIGO_guia_desarrollo|TESTIGO_guia_desarrollo.md]]** — Especificación original
 
 ---
 

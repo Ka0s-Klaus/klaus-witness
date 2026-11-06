@@ -1,3 +1,7 @@
+---
+tags: [proyecto/klaus-witness, tipo/guia, agente/desarrollo]
+---
+
 # 📚 Guía de Estilo de Documentación
 
 Este documento define el estándar de formato para toda la documentación del proyecto **Klaus-witness (TESTIGO)** a partir de septiembre 2026.
